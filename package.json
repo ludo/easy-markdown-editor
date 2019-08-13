@@ -1,5 +1,5 @@
 {
-  "name": "@ludo/easymde",
+  "name": "@ludois/easymde",
   "version": "2.7.0",
   "description": "A simple, beautiful, and embeddable JavaScript Markdown editor that easy to use. Features include autosaving and spell checking.",
   "files": [
